@@ -34,7 +34,7 @@ Example:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/payroll-system.git
+git clone https://github.com/ammrmimi01-beep/payroll_management_system.git
 cd payroll-system
 ```
 
@@ -135,7 +135,7 @@ npm run build
 ## Authors
 
 * Ammar Hamimi
-  GitHub: 
+  GitHub: https://github.com/ammrmimi01-beep/payroll_management_system.git
 
 ---
 
